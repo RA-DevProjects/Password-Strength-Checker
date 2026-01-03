@@ -3,7 +3,7 @@ Password Strength Checker
 Simple interactive Python program that analyses password strength and provides feedback on how to improve it. Checks length, character variety, repetition, sequential patterns, and compares against a list of the most common passwords.
 
 
-Features
+Features:
 - Detects common passwords and automatically invalidates them
 - Scores password strength as: Weak, Medium, Strong, or Very strong
 - Performs the following checks:
@@ -19,16 +19,16 @@ Features
 - Allows user to test multiple passwords in one session
 
 
-Requirements
+Requirements:
 - Python 3.8 or newer
 - No external libraries required
 
 
-How to Run
+How to Run:
 Download or clone the repository, then run the script from a terminal
 
 
-How it works
+How it works:
 1. The user is prompted to enter a password
 2. Empty passwords are rejected
 3. The password is checked against common passwords
@@ -38,20 +38,20 @@ How it works
 7. The user can enter another password or exit
 
 
-Disclaimer
+Disclaimer:
 This tool is for educational purposes only. It is not a professional security auditing tool and should not be relied upon as the only measure of password security. Do not test real passwords that you actively use.
 
 
-Educational Purposes
+Educational Purposes:
 Displays proper understanding of python through the use of a working and navigable program
 
 
-Author
+Author:
 Created by RA-DevProjects
 
 GitHub profile:
 https://github.com/RA-DevProjects
 
 
-Contributions
+Contributions:
 Contributions, improvements, and suggestions are very much welcome. Pull requests and issue reports are appreciated since this was quite a simple project.
