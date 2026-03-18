@@ -39,7 +39,7 @@ How it works:
 
 
 Disclaimer:
-This tool is for educational purposes only. It is not a professional security auditing tool and should not be relied upon as the only measure of password security. Do not test real passwords that you actively use.
+This tool is for educational purposes only, it is not a professional security auditing tool and should not be relied upon as the only measure of password security. Do not test real passwords that you actively use.
 
 
 Educational Purposes:
